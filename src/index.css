@@ -12,3 +12,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+img {
+  height: 150px;
+  width: 150px;
+}
+
+#song-item {
+  border: 2px;
+  border-style: solid;
+  height: 400px;
+width: 500px;
+display:inline-block;
+margin: 10px ;
+position: relative;
+text-align:center;
+font-size: 15px;
+
+}
